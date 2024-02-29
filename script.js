@@ -1,6 +1,5 @@
 var title = '<h1><a href="/">minaizamina</a></h1>';
 
-alert( 'pascal test' );
 let md = window.markdownit({html: true});
 
 var width;
